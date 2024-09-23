@@ -1,3 +1,5 @@
+CREATE DATABASE RH;
+
 USE RH;
 
 CREATE TABLE Departamentos(
